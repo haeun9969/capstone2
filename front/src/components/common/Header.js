@@ -15,7 +15,7 @@ const Wrapper = styled(Responsive)`
   height: 4rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   .logo {
     font-size: 1.125rem;
     font-weight: 800;
@@ -35,6 +35,8 @@ const Logo = styled.div`
 	display: flex;
 	align-items: center;
   justify-content: center;
+  marginTop:'2vh';
+  marginBottom:'2vh;
 `;
 
 const Header = () => {
