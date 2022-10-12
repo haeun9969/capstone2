@@ -45,7 +45,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:9000",
+  "proxy": "https://capstone2team.herokuapp.com",
   "devDependencies": {
     "cross-env": "^7.0.3"
   }
